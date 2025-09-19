@@ -106,3 +106,6 @@ npm start
 | rating         | Number | Book rating (1-5)           |
 | detail\_url    | String | Link to book details page   |
 | thumbnail\_url | String | URL to book thumbnail image |
+
+### 4. Working Link:
+[Project}(https://book-explorer-xi.vercel.app/)
