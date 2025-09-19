@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
-    "postinstall": "npm install && cd ../scraper && npm install"
+    "postinstall": "cd ../scraper && npm install"
   },
   "keywords": [],
   "author": "",
